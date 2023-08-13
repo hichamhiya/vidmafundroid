@@ -1,13 +1,13 @@
 {
   "AdManager": {
-    "PrioritInterstitialSplash":"",
-    "PriorityInterstitial":"admob",
-    "PriorityBanner":"admob",
-    "PriorityNative":"admob",
+    "PrioritInterstitialSplash":"unity",
+    "PriorityInterstitial":"unity",
+    "PriorityBanner":"unity",
+    "PriorityNative":"unity",
     "AdmobBanner":"",
     "AdmobInterstitial":"",
     "AdmobNative":"",
-    "UnityGameID":"xxxxxxxxxx",
+    "UnityGameID":"5380152",
     "UnityBanner":"Banner_Android",
     "UnityInterstitial":"Interstitial_Android",
     "AppodealAppKey":"xxxxxxxxxxxx"
